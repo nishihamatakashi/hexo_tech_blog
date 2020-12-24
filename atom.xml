@@ -3,11 +3,11 @@
   <title>NishihamaTakashiの個人技術ブログ</title>
   
   
-  <link href="https://nishihamatakashi.github.io/hexo_tech_blog/atom.xml" rel="self"/>
+  <link href="https://nishihamatakashi.github.io/atom.xml" rel="self"/>
   
-  <link href="https://nishihamatakashi.github.io/hexo_tech_blog/"/>
+  <link href="https://nishihamatakashi.github.io/"/>
   <updated>2020-12-24T16:22:44.773Z</updated>
-  <id>https://nishihamatakashi.github.io/hexo_tech_blog/</id>
+  <id>https://nishihamatakashi.github.io/</id>
   
   <author>
     <name>Nishihama Takashi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://nishihamatakashi.github.io/hexo_tech_blog/2020/12/25/hello-world/"/>
-    <id>https://nishihamatakashi.github.io/hexo_tech_blog/2020/12/25/hello-world/</id>
+    <link href="https://nishihamatakashi.github.io/2020/12/25/hello-world/"/>
+    <id>https://nishihamatakashi.github.io/2020/12/25/hello-world/</id>
     <published>2020-12-24T16:22:44.773Z</published>
     <updated>2020-12-24T16:22:44.773Z</updated>
     
