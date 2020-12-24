@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nishihamatakashi.github.io/2020/12/25/hello-world/</loc>
+    <loc>https://nishihamatakashi.github.io/2020/12/25/CMakeTutorial/</loc>
     
     <lastmod>2020-12-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nishihamatakashi.github.io/2020/12/25/CppTemplate/</loc>
+    
+    <lastmod>2020-12-22</lastmod>
     
   </url>
   
